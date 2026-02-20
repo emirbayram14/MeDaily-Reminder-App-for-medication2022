@@ -1,5 +1,4 @@
 # MeDaily-Reminder-App
-Project within the field of IB Computer Science High Level (Internal Assesment)
 
 Success Criteria
 A sign-in page on the launch screen
